@@ -2,8 +2,6 @@
 
 ## About:
 
-This **Online Test Application** project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
-
 DESCRIPTION
 
 The Online Test Application system creates an application that enables users to provide online tests, review them, and display the results.
